@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.xlsb
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+credentials/
+*.json
